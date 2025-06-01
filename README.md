@@ -104,4 +104,3 @@ Have ideas or want to collaborate?
 
 ## 🌱 Made with purpose to build a greener tomorrow.
 
-![Profile views](https://komarev.com/ghpvc/?username=swethaganeshh&color=green)
